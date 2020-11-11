@@ -8,6 +8,8 @@ This was my first serious foray into the world of coding. My goal was to underst
 
 **Screenshot**
 
-![webpage_screenshot](Screenshot(4).png)
+horiseon-mainpage.github.io/Screenshot(4).png
 
-![webpage_screenshot](Screenshot(7).png)
+
+horiseon-mainpage.github.io/Screenshot(7).png
+
