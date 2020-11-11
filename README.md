@@ -8,8 +8,8 @@ This was my first serious foray into the world of coding. My goal was to underst
 
 **Screenshot**
 
-![screenshot 1] horiseon-mainpage.github.io/Screenshot(4).png
+![screenshot 1] (https://github.com/Almostalantern/horiseon-mainpage.github.io/blob/main/Screenshot%20(4).png)
 
 
-![screenshot 2] horiseon-mainpage.github.io/Screenshot(7).png
+![screenshot 2] (https://github.com/Almostalantern/horiseon-mainpage.github.io/blob/main/Screenshot%20(4).png)
 
