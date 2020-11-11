@@ -8,6 +8,6 @@ This was my first serious foray into the world of coding. My goal was to underst
 
 **Screenshot**
 
-![webpage_screenshot](assets/images/Screenshot(4).png)
+![webpage_screenshot](Screenshot(4).png)
 
-![webpage_screenshot](assets/images/Screenshot(7).png)
+![webpage_screenshot](Screenshot(7).png)
