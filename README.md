@@ -7,6 +7,7 @@ This is a page for a fictitious digital marketing website named Horiseon. I upda
 This was my first serious foray into the world of coding. My goal was to understand how to use HTML and CSS better by the end of the project and to apply these newfound skills into something that looks like it could be on the internet. 
 
 **Screenshot**
+
 ![webpage_screenshot](assets/images/Screenshot(4).png)
 
 ![webpage_screenshot](assets/images/Screenshot(7).png)
